@@ -5,14 +5,13 @@
     "polymer": "Polymer/polymer#master"
   },
   "homepage": "https://github.com/Polymer/core-signals",
-  "_release": "cc815daaee",
+  "_release": "a9cdb87f02",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "cc815daaeef71b9b08bee30ef6c28ab103a00665"
+    "commit": "a9cdb87f02def1f8c613adbf271eda2e29e84adb"
   },
   "_source": "git://github.com/Polymer/core-signals.git",
   "_target": "master",
-  "_originalSource": "Polymer/core-signals",
-  "_direct": true
+  "_originalSource": "Polymer/core-signals"
 }
