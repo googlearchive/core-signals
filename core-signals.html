@@ -34,11 +34,11 @@ of where they are in DOM.
 @status stable
 @homepage github.io
 -->
-<polymer-element name="core-signals">
 <script>
 (function(){
   
   Polymer({
+	  is: 'core-signals',
     attached: function() {
       signals.push(this);
     },
@@ -81,4 +81,3 @@ of where they are in DOM.
   
 })();
 </script>
-</polymer-element>
